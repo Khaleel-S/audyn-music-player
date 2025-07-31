@@ -31,13 +31,7 @@
 }
 
 /* Keyframes for background image slideshow */
-@keyframes slideshow {
-  0% { background-image: url('C:\Users\SHAIK KHALEEL BASHA\Downloads\music-player\music-player\public\bg.jpg'); }
-  25% { background-image: url('C:\Users\SHAIK KHALEEL BASHA\Downloads\music-player\music-player\public\bg1.jpg'); }
-  50% { background-image: url('C:\Users\SHAIK KHALEEL BASHA\Downloads\music-player\music-player\public\bg2.jpg'); }
-  75% { background-image: url('C:\Users\SHAIK KHALEEL BASHA\Downloads\music-player\music-player\public\bg3.jpg'); }
-  100% { background-image: url('C:\Users\SHAIK KHALEEL BASHA\Downloads\music-player\music-player\public\bg4.jpg'); }
-}
+
 
 /* Center container */
 .auth-container {
